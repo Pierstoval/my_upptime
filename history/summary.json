@@ -4,7 +4,7 @@
     "url": "https://alex-rock.tech/en/",
     "icon": "https://favicons.githubusercontent.com/alex-rock.tech",
     "slug": "alex-rock-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 703,
     "timeMonth": 631,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "www.orbitale.io",
