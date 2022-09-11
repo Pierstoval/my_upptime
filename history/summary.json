@@ -4,19 +4,19 @@
     "url": "https://alex-rock.tech/en/",
     "icon": "https://favicons.githubusercontent.com/alex-rock.tech",
     "slug": "alex-rock-tech",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 684,
-    "timeWeek": 703,
-    "timeMonth": 631,
-    "timeYear": 611,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 608,
+    "timeDay": 560,
+    "timeWeek": 669,
+    "timeMonth": 625,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2022-09-11": 0
+      "2022-09-11": 17
     }
   },
   {
