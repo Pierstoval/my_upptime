@@ -4,7 +4,7 @@
     "url": "https://alex-rock.tech/en/",
     "icon": "https://icons.duckduckgo.com/ip3/alex-rock.tech.ico",
     "slug": "alex-rock-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 577,
     "timeYear": 583,
     "dailyMinutesDown": {
+      "2022-11-13": 0,
       "2022-09-20": 16,
       "2022-09-11": 17
     }
