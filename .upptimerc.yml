@@ -5,7 +5,7 @@ repo: my_upptime # The name of this repository
 sites:
   - name: alex-rock.tech
     url: https://alex-rock.tech/en/
-  - name: www.orbitale.io
+  - name: www.orbitale.tech
     url: https://www.orbitale.tech/
 
 status-website:
