@@ -25,19 +25,19 @@
     "url": "https://www.orbitale.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/www.orbitale.tech.ico",
     "slug": "www-orbitale-tech",
-    "status": "down",
-    "uptime": "3.00%",
-    "uptimeDay": "3.00%",
-    "uptimeWeek": "3.00%",
-    "uptimeMonth": "3.00%",
-    "uptimeYear": "3.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 11
     }
   }
 ]
