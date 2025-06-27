@@ -116,19 +116,19 @@
     "url": "https://jdr.pierstoval.com/esteren/",
     "icon": "https://icons.duckduckgo.com/ip3/jdr.pierstoval.com.ico",
     "slug": "corahnrinv1",
-    "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "95.89%",
+    "status": "down",
+    "uptime": "96.29%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "96.29%",
     "time": 6589,
     "timeDay": 7471,
     "timeWeek": 6589,
     "timeMonth": 6589,
     "timeYear": 6589,
     "dailyMinutesDown": {
-      "2025-06-27": 87
+      "2025-06-27": 79
     }
   },
   {
