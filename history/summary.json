@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jdr.pierstoval.com.ico",
     "slug": "corahnrinv1",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 3609,
     "timeDay": 612,
     "timeWeek": 462,
@@ -152,35 +152,39 @@
     "url": "https://corahnrin.pierstoval.com/",
     "icon": "https://icons.duckduckgo.com/ip3/corahnrin.pierstoval.com.ico",
     "slug": "corahnrinv2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 627,
-    "timeWeek": 407,
+    "timeDay": 571,
+    "timeWeek": 410,
     "timeMonth": 465,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   },
   {
     "name": "corahnrinv2",
     "url": "https://corahnrin.pierstoval.com/",
     "icon": "https://icons.duckduckgo.com/ip3/corahnrin.pierstoval.com.ico",
     "slug": "corahnrinv2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 627,
-    "timeWeek": 407,
+    "timeDay": 571,
+    "timeWeek": 410,
     "timeMonth": 465,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   }
 ]
